@@ -1,13 +1,12 @@
 {
     "name": "guobin/demo-bundle",
-    "description": "adfdaf",
-    "type": "symfony-bundle",
-    "require": {
-    },
+    "description": "test",
     "authors": [
         {
             "name": "Guobin",
             "email": "guobin.qiu@d8aspring.com"
         }
     ],
+    "minimum-stability": "dev",
+    "require": {}
 }
