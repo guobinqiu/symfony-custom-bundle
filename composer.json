@@ -11,7 +11,8 @@
     ],
     "require": {
         "php":                      ">=5.3.3",
-        "symfony/framework-bundle": "~2.3|~3.0"
+        "symfony/framework-bundle": "~2.3|~3.0",
+        "twig/twig":                "~1.12|~2"
     },
     "autoload": {
         "psr-4": { "DataSpring\\DemoBundle\\": "" }
