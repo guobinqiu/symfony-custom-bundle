@@ -1,0 +1,10 @@
+{
+    "name": "dataspring/demo-bundle",
+    "authors": [
+        {
+            "name": "Guobin",
+            "email": "guobin.qiu@d8aspring.com"
+        }
+    ],
+    "require": {}
+}
