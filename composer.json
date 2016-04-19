@@ -7,11 +7,14 @@
     "authors": [
         {
             "name": "Guobin",
-            "email": "guobin.qiu@d8aspring.com"
+            "email": "qracle@126.com"
         }
     ],
     "require": {
         "php":                      ">=5.3.3",
         "symfony/framework-bundle": "~2.3|~3.0"
+    },
+    "autoload": {
+        "psr-4": { "DataSpring\\DemoBundle\\": "" }
     }
 }

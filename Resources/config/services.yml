@@ -1,4 +1,4 @@
 services:
 #    dataspring_demo.example:
-#        class: Dataspring\DemoBundle\Example
+#        class: DataSpring\DemoBundle\Example
 #        arguments: ["@service_id", "plain_value", %parameter%]
