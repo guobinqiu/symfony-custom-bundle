@@ -2,12 +2,13 @@
     "name": "guobin/demo-bundle",
     "description": "test",
     "type": "symfony-bundle",
+    "homepage": "http://github.com/guobinqiu/DemoBundle",
+    "license": "MIT",
     "authors": [
         {
             "name": "Guobin",
             "email": "guobin.qiu@d8aspring.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
