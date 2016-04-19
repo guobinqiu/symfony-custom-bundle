@@ -1,5 +1,5 @@
 {
-    "name": "guobin/demo-bundle",
+    "name": "dataspring/demo-bundle",
     "description": "test",
     "type": "symfony-bundle",
     "homepage": "http://github.com/guobinqiu/DemoBundle",
