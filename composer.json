@@ -3,7 +3,6 @@
     "description": "test",
     "type": "symfony-bundle",
     "homepage": "http://github.com/guobinqiu/DemoBundle",
-    "license": "MIT",
     "authors": [
         {
             "name": "Guobin",
