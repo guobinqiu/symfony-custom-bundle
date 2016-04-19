@@ -2,7 +2,9 @@
     "name": "dataspring/demobundle",
     "description": "test",
     "type": "symfony-bundle",
+    "keywords": ["dataspring", "guobin"],
     "homepage": "http://github.com/guobinqiu/DemoBundle",
+    "license": "MIT",
     "authors": [
         {
             "name": "Guobin",
@@ -10,6 +12,7 @@
         }
     ],
     "require": {
+        "php": ">=5.5"
     },
     "autoload": {
         "psr-4": { "DataSpring\\DemoBundle\\": "" }
