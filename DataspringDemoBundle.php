@@ -1,6 +1,6 @@
 <?php
 
-namespace Dataspring\DemoBundle;
+namespace DataSpring\DemoBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
