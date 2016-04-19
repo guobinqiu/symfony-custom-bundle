@@ -4,7 +4,6 @@
     "type": "symfony-bundle",
     "keywords": ["dataspring"],
     "homepage": "http://github.com/guobinqiu/DemoBundle",
-    "license": "MIT",
     "authors": [
         {
             "name": "Guobin",
@@ -12,9 +11,7 @@
         }
     ],
     "require": {
-        "php":                      ">=5.3.3",
-        "symfony/framework-bundle": "~2.3|~3.0",
-        "twig/twig":                "~1.12|~2"
+        "php":                      ">=5.3.3"
     },
     "autoload": {
         "psr-4": {
