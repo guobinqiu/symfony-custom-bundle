@@ -8,6 +8,6 @@
             "email": "guobin.qiu@d8aspring.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
