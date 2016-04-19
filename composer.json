@@ -1,8 +1,8 @@
 {
-    "name": "dataspring/demobundle",
+    "name": "dataspring/demo-bundle",
     "description": "test",
     "type": "symfony-bundle",
-    "keywords": ["dataspring", "guobin"],
+    "keywords": ["dataspring"],
     "homepage": "http://github.com/guobinqiu/DemoBundle",
     "license": "MIT",
     "authors": [
@@ -17,6 +17,13 @@
         "twig/twig":                "~1.12|~2"
     },
     "autoload": {
-        "psr-4": { "DataSpring\\DemoBundle\\": "" }
+        "psr-4": {
+            "DataSpring\\DemoBundle\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.4.x-dev"
+        }
     }
 }
