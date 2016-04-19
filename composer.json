@@ -1,6 +1,7 @@
 {
     "name": "guobin/demo-bundle",
     "description": "test",
+    "type": "symfony-bundle",
     "authors": [
         {
             "name": "Guobin",
