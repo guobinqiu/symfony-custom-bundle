@@ -1,3 +1,0 @@
-dataspring_demo_homepage:
-    path:     /
-    defaults: { _controller: DataSpringDemoBundle:Default:index }
