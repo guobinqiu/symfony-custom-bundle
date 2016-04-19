@@ -1,6 +1,7 @@
 {
     "name": "guobin/demo-bundle",
     "description": "adfdaf",
+    "type": "symfony-bundle",
     "require": {
     },
     "authors": [
