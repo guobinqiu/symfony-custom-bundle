@@ -1,10 +1,30 @@
 {
-    "name": "dataspring/demo-bundle",
-    "authors": [
-        {
-            "name": "Guobin",
-            "email": "guobin.qiu@d8aspring.com"
-        }
+    "name" : "dataspring/demobundle",
+    "description" : "A demo bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Guobin",
+        "email" : "qracle@126.com"
+    }],
+    "keywords" : [
+        "demo bundle"
     ],
-    "require": {}
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Dataspring\\DemoBundle" : ""
+        }
+    },
+    "target-dir" : "Dataspring/DemoBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "some_version-dev"
+        }
+    }
 }
