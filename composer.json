@@ -12,11 +12,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-//        "php":                      "^5.3.3|^7.0",
-//        "symfony/framework-bundle": "^2.3|^3.0",
-//        "symfony/assetic-bundle": "^2.3|^3.0",
-//        "symfony/symfony": "^2.3|^3.0"
-
         "php": ">=5.3.3",
         "symfony/symfony": "2.3.*"
     },
