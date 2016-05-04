@@ -1,10 +1,8 @@
 # Create your own Symfony2 bundle
----
+
 Tutorial of creating your own Symfony2 bundle
 
-
 ## How to do?
----
 
 ### 1. Install Symfony
 <http://symfony.cn/docs/quick_tour/the_big_picture.html>
@@ -142,8 +140,6 @@ Also see [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) and [seman
 ### 11. Put it in the Packagist
 
 Google by your own (not difficult)
-
----
 
 ## Use it in another project
 
