@@ -1,3 +1,3 @@
-data_spring_demo:
-    resource: "@DataSpringDemoBundle/Controller/"
-    type: annotation
+demo_index:
+    path:      /index
+    defaults:  { _controller: DataSpringDemoBundle:Default:index }
