@@ -84,7 +84,6 @@ A composer.json file would look like so:
 }
 ```
 
-To understand each meaning of parameter please check its ouput shown on the [Packagist](https://packagist.org/).
 
 
 ### 8. Add a MIT license file
@@ -139,7 +138,12 @@ Also see [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) and [seman
 
 ### 11. Put it in the Packagist
 
-Google by your own (not difficult)
+- [Getting Started](https://packagist.org/)
+
+- [Submit your own bundle](https://packagist.org/packages/submit)
+
+- Install [GitHub Service Hook](https://packagist.org/about#how-to-update-packages) to ensure that your package will always be updated instantly when you push to GitHub
+
 
 ## Use it in another project
 
@@ -194,6 +198,6 @@ data_spring_demo:
 
 ```
 
-### 4. Access
+### 4. Finally
 
-http://domain:port/demo/index
+Typing `http://YourDomain:port/demo/index` in your web browser to access!
