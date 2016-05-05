@@ -133,7 +133,7 @@ Notice that when creating your own bundle, `Annotation` way is not supported!
 git tag -a VERSION -m "MESSAGE"
 git push origin VERSION
 ```
-Also see [git tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) and [semantic versioning](http://semver.org/) (X.Y.Z)
+or [Release in Github](https://help.github.com/articles/creating-releases/)
 
 
 ### 11. Put it in the Packagist
